@@ -165,7 +165,7 @@ Plan successfully added
 </p>
 8.) Configure Help Topics
 </p>
-Admin Panel -> Manage -> Help Topics
+Admin Panel -> Manage -> Help Topics and Add Neww Help Topic
 <img src="https://i.imgur.com/B9UOVQy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 - Business Critical Outage
@@ -183,6 +183,9 @@ Admin Panel -> Manage -> Help Topics
 - Password Reset
 <img src="https://i.imgur.com/ASavUeB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/0RgA3bk.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+We successfully added New Help Topic
+<img src="https://i.imgur.com/kPJzRQp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 - Configure Users (customers)
 Agent Panel -> Users -> Add New
