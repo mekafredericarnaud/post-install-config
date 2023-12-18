@@ -205,4 +205,4 @@ All User have been added successfully.
 <img src="https://i.imgur.com/0jWlIux.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We can now proceed with lifecycle of tickets.
+We can now touch on tickets Lifecycle on the following project.
