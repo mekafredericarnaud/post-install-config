@@ -187,21 +187,34 @@ Admin Panel -> Manage -> Help Topics and Add Neww Help Topic
 We successfully added New Help Topic
 <img src="https://i.imgur.com/kPJzRQp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-- Configure Users (customers)
-Agent Panel -> Users -> Add New
-Karen
-Ken
-
-<p>
-<img src="https://i.imgur.com/0sai93W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+9.) Now, we can switch back to Agent Panel and Configure Users (customers)
 </p>
+<img src="https://i.imgur.com/BGJq9k7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+a. Agent Panel -> Users -> Add New User named Karen
+</p>
+<img src="https://i.imgur.com/QXbZirg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I2YxPNp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+b. Agent Panel -> Users -> Add New User named Ken
+</p>
+<img src="https://i.imgur.com/QKCgvCg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ud7cPse.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+All User have been added successfully
+<img src="https://i.imgur.com/0jWlIux.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0jWlIux.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
