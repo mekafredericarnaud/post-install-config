@@ -167,7 +167,7 @@ Admin Panel -> Manage -> Help Topics and Add Neww Help Topic.
 </p>
 - Equipment Request.
 <img src="https://i.imgur.com/DYbSvoq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vAdaZUm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 - Password Reset.
 <img src="https://i.imgur.com/ASavUeB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
