@@ -87,7 +87,8 @@ a. Admin Panel -> Agents -> Teams and click on Add a New Team Level II Support.
 </p>
 The new Level II Support Team has been successfully added.
 </p>
-<img src="https://i.imgur.com/" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ymdh51p.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BOUBOPX.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 5.) Allow anyone to create tickets.
 </p>
