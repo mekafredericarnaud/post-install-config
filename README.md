@@ -77,21 +77,9 @@ The new Department has been successfully added.
 </p>
 4.) Configure Teams.
 </p>
-a. Admin Panel -> Agents -> Teams and click on Add New Team.
+a. Admin Panel -> Agents -> Teams and click on Add a New Team Level II Support.
 </p>
 <img src="https://i.imgur.com/LwlrY9N.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-- Create Level I Support.
-</p>
-<img src="https://i.imgur.com/" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<img src="https://i.imgur.com/" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-The new Level I Support Team has been successfully added.
-</p>
-<img src="https://i.imgur.com/" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-- Create Level II Support.
 </p>
 <img src="https://i.imgur.com/9aOmUIM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
