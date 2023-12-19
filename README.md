@@ -125,7 +125,7 @@ b. Admin Panel -> Agents -> Add New Agent named John, Set Password, Status and S
 Access.
 <img src="https://i.imgur.com/JHAro3S.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-We successfully added Jane.
+We successfully added John.
 <img src="https://i.imgur.com/I6FHkx8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/4TNOLW4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
