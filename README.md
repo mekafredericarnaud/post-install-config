@@ -61,6 +61,7 @@ The new role has been succesfully added.
 <img src="https://i.imgur.com/AuWQuDI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 2.) Configure Departments.
+</p>
 a. Admin Panel -> Agents -> Departments and click on Add New Department.
 </p>
 <img src="https://i.imgur.com/sPQ90NK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
